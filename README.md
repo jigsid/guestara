@@ -13,7 +13,7 @@ npm install
 2. Create a `.env` file in the root directory with the following variables:
 
 ```
-MONGODB_URI=mongodb://localhost:27017/menu_management
+DATABASE_URL=postgresurl
 PORT=3000
 ```
 
